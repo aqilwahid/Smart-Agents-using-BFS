@@ -212,5 +212,3 @@ Anda dapat menjalankan permainan ini dengan mudah menggunakan Google Colab. Sila
   - Mengubah ukuran papan atau aturan permainan untuk variasi yang lebih menantang.
 
 ---
-
-**Selamat bermain dan semoga Anda menikmati proyek ini!**
