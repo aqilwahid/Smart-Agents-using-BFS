@@ -31,7 +31,7 @@ Proyek ini adalah implementasi permainan Tic-Tac-Toe interaktif yang dijalankan 
 
 ## **Instalasi dan Persiapan**
 
-### **1. Instalasi Python dan Jupyter Notebook**
+### **1. Instalasi Python atau Jupyter Notebook**
 
 Jika Anda belum menginstal Python dan Jupyter Notebook, Anda dapat mengunduh dan menginstal **Anaconda Distribution** yang sudah mencakup keduanya:
 
